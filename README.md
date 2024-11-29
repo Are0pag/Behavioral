@@ -10,7 +10,7 @@
 ![Static Badge](https://img.shields.io/badge/CCG-inactive "Collectable Card Game")
 ![Static Badge](https://img.shields.io/badge/GBG-inactive "Grid Based Game")
 
-### POE.Systems.Grid.Movement Module
+### POE.Behavioral Module
 #### Requarements: 
 - [POE.Tools Module](https://github.com/Are0pag/GridGeneration](https://github.com/Are0pag/POE.Tools))
 - UniTask
